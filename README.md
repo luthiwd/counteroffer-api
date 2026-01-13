@@ -38,7 +38,7 @@ Usuario hace oferta (precio_ofrecido)
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/DevInigo/counteroffer-api.git
+git clone https://github.com/luthiwd/counteroffer-api.git
 cd counteroffer-api
 
 # Instalar dependencias
@@ -56,6 +56,10 @@ npm start
 ```
 
 ## Endpoints
+
+### Deploy en Railway
+
+Url: https://counteroffer-api-production.up.railway.app
 
 ### Contraofertas (Público)
 
